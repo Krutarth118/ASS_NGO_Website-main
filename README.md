@@ -1,7 +1,6 @@
-# SGJSS_NGO_Website
+# ASS_NGO_Website
 
-_**Created By [Omkar Jadhav](https://github.com/Omkaroj1242), [Sheenam Goel](https://github.com/SheenamGoel),  and [Mahesh Babar](https://github.com/maheshdbabar9340)**_
+_**Created By [Krutarth Patel , Aksh Dalsaniya , Deep Solanki ,Jenil Saravani , Deep Parmar]
 
-_**Take a view at => https://sgjss.netlify.app/ OR [SGJSS_NGO_Website](https://maheshdbabar9340.github.io/SGJSS_NGO_Website/)**_
+_**Take a view at =>  OR [ASS_NGO_Website](https://github.com/Krutarth118/ASS_NGO_Website-main.git)**_
 
-**smtp.js for sending E-mails ==> https://kaustubh72.medium.com/send-e-mails-with-smtp-js-a8e07e1d0b6b**
